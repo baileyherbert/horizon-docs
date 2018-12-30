@@ -6,6 +6,7 @@
 
 **Architecture**
 - [File Structure](architecture/files.md)
+- [Autoloader](architecture/autoloader.md)
 - [Service Container](architecture/container.md)
 - [Service Providers](architecture/providers.md)
 - [Facades](architecture/facades.md)
