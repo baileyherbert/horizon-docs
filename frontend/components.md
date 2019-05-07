@@ -60,7 +60,7 @@ class MenuComponent extends Component
 
     public function getName()
     {
-        return $this->name;
+        return $this->menuName;
     }
 }
 ```
