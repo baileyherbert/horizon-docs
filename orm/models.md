@@ -15,8 +15,6 @@ This is a basic example of a model.
 namespace App\Models;
 
 use Horizon\Database\Model;
-use Horizon\Database\ORM\Relationships\OneToManyRelationship;
-use Horizon\Database\ORM\Relationships\ManyToManyRelationship;
 
 class User extends Model
 {
